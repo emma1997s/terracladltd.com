@@ -438,31 +438,31 @@ img {
   counter-increment: carousel-cell; }
 
 #carousel-image {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img99.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/towercladding.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel-image1 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img28.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/tower01.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel-image2 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img27.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/future.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel-image3 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img26.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/future3.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel-image4 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img30.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/future4.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
@@ -476,61 +476,39 @@ img {
     counter-increment: carousel-cell; } }
 
 #carousel1-image {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img99.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/green1.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel1-image1 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img33.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/green.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel1-image2 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img21.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/green24.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel1-image3 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img23.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img20.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel1-image4 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/tower.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img19.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
+
+
 
 #carousel2-image {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img99.jpg);
-  background-size: cover;
-  background-position: center;
-  position: relative; }
-
-#carousel2-image1 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/metv.jpg);
-  background-size: cover;
-  background-position: center;
-  position: relative; }
-
-#carousel2-image2 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/metvq.jpg);
-  background-size: cover;
-  background-position: center;
-  position: relative; }
-
-#carousel2-image3 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/met.jpg);
-  background-size: cover;
-  background-position: center;
-  position: relative; }
-
-#carousel2-image {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img99.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img9.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
@@ -560,31 +538,31 @@ img {
   position: relative; }
 
 #carousel3-image {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img99.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/25.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel3-image1 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img20.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/media.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel3-image2 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img19.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/midwindow.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel3-image3 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/img54.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/namas321.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
 
 #carousel3-image4 {
-  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/5.jpg);
+  background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.2), rgba(3, 0, 0, 0.2)), url(/img/siena.jpg);
   background-size: cover;
   background-position: center;
   position: relative; }
@@ -595,7 +573,7 @@ img {
 #main-footer {
   height: 100%;
   width: auto;
-  background-color: rgb(138, 135, 135) !important; }
+  background-color: rgb(5, 5, 0) !important; }
 
 .header-gallery {
   height: 95vh;
@@ -617,7 +595,7 @@ img {
   clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%); } }
   @media only screen and (min-resolution: 192dpi) and (min-width: 37.5em), only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 37.5em), only screen and (min-width: 125em) {
     .header-gallery {
-      background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.6), rgba(3, 0, 0, 0.6)), url(/img/redtower2.jpg); } }
+      background-image: linear-gradient(to right bottom, rgba(5, 29, 5, 0.6), rgba(3, 0, 0, 0.6)), url(/img/cladding4.jpg); } }
   .header-gallery__logo-box {
     position: absolute;
     top: 4rem;
